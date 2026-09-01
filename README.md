@@ -1,4 +1,4 @@
-# Hi, I'm Tejas 👋
+# Hi, I'm Tejas G👋
 
 ### Aspiring Software Engineer | AI & ML Enthusiast | Python Developer
 
