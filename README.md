@@ -46,6 +46,9 @@ I am continuously strengthening my knowledge of **Python, software development, 
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="mailto:tejasguru53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tejasguru53%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/tejas-g-93a254272/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
