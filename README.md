@@ -1,4 +1,4 @@
-# Hi, I'm Tejas G👋
+# Hi, I'm Tejas G 👋
 
 ### Aspiring Software Engineer | AI & ML Enthusiast | Python Developer
 
@@ -42,6 +42,17 @@ My goal is to grow into a capable software engineer who can design, build, and i
 ## 🌱 Currently Learning
 
 I am continuously strengthening my knowledge of **Python, software development, problem-solving, AI, and Machine Learning**, while working toward building increasingly practical and impactful projects.
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tejas-g-93a254272/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/tejas.g">
+    <img src="https://img.shields.io/badge/Instagram-@tejas.g-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
