@@ -52,7 +52,7 @@ I am continuously strengthening my knowledge of **Python, software development, 
   <a href="https://www.linkedin.com/in/tejas-g-93a254272/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/tejas.g">
+  <a href="https://instagram.com/tejaz.g">
     <img src="https://img.shields.io/badge/Instagram-@tejas.g-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
